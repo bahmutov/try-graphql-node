@@ -1,0 +1,29 @@
+{
+  "name": "try-graphql-node",
+  "version": "1.0.0",
+  "description": "Playing with Node Express + GraphQL example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/try-graphql-node.git"
+  },
+  "keywords": [
+    "graphql",
+    "express",
+    "example"
+  ],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahmutov/try-graphql-node/issues"
+  },
+  "homepage": "https://github.com/bahmutov/try-graphql-node#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.6",
+    "graphql": "^0.10.1"
+  }
+}
